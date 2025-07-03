@@ -1,2 +1,2 @@
-const grup = "6989148477";
-const token  = "8183866694:AAFkcEOx9o0nn5lpMkTlsn-rheaenSyCSqs";
+const grup = "6772145811";
+const token  = "7511984077:AAGJXnAs1umoaGx8NBVLtFLP8myUVvAzDhc";
